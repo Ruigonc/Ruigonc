@@ -5,7 +5,8 @@
 ##
 <img align="right" alt="coding" width="240" src="https://media.tenor.com/SBAt0s2C6mwAAAAC/cat-keyboard.gif">
 
-- 💼 I’m currently working on:
+<h3 align="left">💼 I’m currently working on:</h3> 
+
 - [MilleniumSAT](https://github.com/MilleniumSAT) 🛰️
 - [Pequi Mecânico (Humanoid)](https://github.com/HumanoidPequi) 🤖
 - [Carro Autônomo](https://github.com/UFG-DINOLab) 🚗

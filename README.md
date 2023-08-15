@@ -1,8 +1,9 @@
 <h1 align="center">Hey! I'm Rui Jr 😎</h1>
-<h3 align="center">A Brazilian developer with a passion for delving into the realms of robotics, satellites, IA and embedded systems. When I'm not immersing myself in the fascinating world of projects, you might catch me pursuing my studies at UFG during my "free" time. 🤣</h3>
-<img align="right" alt="coding" width="240" src="https://media.tenor.com/SBAt0s2C6mwAAAAC/cat-keyboard.gif">
+<h3 align="center">A Brazilian developer with a passion for delving into the realms of robotics, satellites, IA and embedded systems. When I'm not immersing myself in the fascinating world of projects, you might catch me pursuing my studies at Universidade Federal de Goiás during my "free" time as a computer engineering student. 🤣</h3>
+
  
 ##
+<img align="right" alt="coding" width="240" src="https://media.tenor.com/SBAt0s2C6mwAAAAC/cat-keyboard.gif">
 
 - 💼 I’m currently working on:
 - [MilleniumSAT](https://github.com/MilleniumSAT) 🛰️
